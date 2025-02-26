@@ -8,19 +8,19 @@ FootballData è un'applicazione console sviluppata in .NET 8 che raccoglie dati 
 
 🚀 Funzionalità
 
-🏆 Raccolta dati: acquisisce informazioni su squadre, giocatori, partite e classifiche.
+🏆 Raccolta dati: acquisizione dei risultati dei top 5 campionati europei.
 
 💾 Salvataggio su database: archivia i dati in un database relazionale (SQL Server).
-
-🔄 Aggiornamenti automatici: possibilità di schedulare aggiornamenti periodici.
 
 📡 Fonte dati: integrazione con API di calcio pubbliche.
 
 
 🛠️ Tecnologie utilizzate
-.NET 8
-Entity Framework Core
-SQL Server
+- .NET 8
+- Entity Framework Core
+- SQL Server
+- Dapper
+
 
 📦 Installazioni necessarie:
 - Visual Studio
