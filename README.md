@@ -3,7 +3,8 @@
 📊Acquisizione e archiviazione dati sui top 5 campionati europei
 
 📌 Descrizione
-FootballData è un'applicazione console sviluppata in .NET 8 che raccoglie dati sui principali campionati di calcio europei (Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) e li salva in un database.
+
+FootballData è un'applicazione console sviluppata in .NET 8 che raccoglie dati sui principali campionati di calcio europei (Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) e li salva in un database. In una cartella del progetto si trova un file ".pbix", collegata al database SQL Sever, contenente una BI riepilogativa delle principali statistiche.
 
 🚀 Funzionalità
 
@@ -13,7 +14,7 @@ FootballData è un'applicazione console sviluppata in .NET 8 che raccoglie dati 
 
 🔄 Aggiornamenti automatici: possibilità di schedulare aggiornamenti periodici.
 
-📡 Fonte dati: integrazione con API di calcio pubbliche o private.
+📡 Fonte dati: integrazione con API di calcio pubbliche.
 
 
 🛠️ Tecnologie utilizzate
