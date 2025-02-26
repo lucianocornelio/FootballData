@@ -1,9 +1,9 @@
-⚽ FootballData 📊
-Acquisizione e archiviazione dati sui top 5 campionati europei
-
+⚽ FootballData \n
+📊Acquisizione e archiviazione dati sui top 5 campionati europei
+\n
 📌 Descrizione
 FootballData è un'applicazione console sviluppata in .NET 8 che raccoglie dati sui principali campionati di calcio europei (Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) e li salva in un database.
-
+\n
 🚀 Funzionalità
 🏆 Raccolta dati: acquisisce informazioni su squadre, giocatori, partite e classifiche.
 💾 Salvataggio su database: archivia i dati in un database relazionale (es. SQL Server, PostgreSQL, MySQL).
