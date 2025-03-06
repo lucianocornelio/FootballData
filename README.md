@@ -28,4 +28,5 @@ FootballData è un'applicazione console sviluppata in .NET 8 che raccoglie dati 
 - Power BI Dekstop
 
 📜 Licenza
+
 Questo progetto è distribuito sotto la licenza MIT, quindi puoi usarlo, modificarlo e distribuirlo liberamente.
